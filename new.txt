@@ -1,0 +1,1 @@
+pr -> 나(new branch) 상대방(main) -> close -> 상대방이 브랜치 만듬(new) -> 내 new 브랜치가 상대방 new 브랜치로 pr 가능 ???
